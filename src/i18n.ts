@@ -6,13 +6,14 @@ export const translations = {
       cta: "Get the Brochure"
     },
     hero: {
-      headline: "Nine private villas. One conscious life by the Sea of Cortez.",
-      sub: "A limited collection of full-ownership villas in San José del Cabo — bioclimatic architecture, valley and mountain views, minutes from Puerto Los Cabos.",
+      headline: "Nine private villas. One quieter way to live in Los Cabos.",
+      sub: "A limited collection of full-ownership villas in San José del Cabo — low-density, rooted in nature, minutes from Puerto Los Cabos. Not another tower. A refuge.",
       cta: "Get the Brochure"
     },
     collection: {
       title: "A collection of just nine.",
       body: "Nine beautiful homes that emulate the traditional dwellings of the Mexican countryside and desert architecture. Low-density. Full-ownership. Designed to live in harmony with the land.",
+      cta: "Book a Site Tour",
       villas: ["Guamúchil", "Palo Blanco", "Choya", "Pitahaya", "Lomboy", "Ciruelo", "Damiana", "Palo Verde", "Mezquite"]
     },
     inside: {
@@ -34,7 +35,7 @@ export const translations = {
       ],
       total: { concept: "TOTAL", sqm: 607, sqft: "6,534" },
       features: ["3 Bedrooms", "4 Bathrooms", "Open-plan + Bar", "Rooftop", "Pool"],
-      legal: "Renderings are for illustrative purposes only; final designs and features are subject to change without notice."
+      legal: "Renderings reflect the current design under construction. Visit the site to see the work in progress for yourself."
     },
     lifestyle: {
       title: "Where wellness is daily life.",
@@ -42,7 +43,7 @@ export const translations = {
     },
     tedda: {
       title: "TEDDA FARM CLUB",
-      desc: "Adjacent to AVITA lies Tedda Farm Club, a social hub designed for relaxation and recreation. Tedda offers co-working spaces, paddle tennis courts, cooking classes, an organic market, and privileged access to harvest organic produce only steps from your doorstep.",
+      desc: "Adjacent to ÁVITA lies Tedda Farm Club, a wellness and farm community designed for a slower, healthier life. Tedda offers privileged access to harvest organic produce steps from your door, an organic market, wellness and cooking classes — plus paddle tennis and co-working spaces.",
       amenities: [
         {
           title: "Outdoor Kitchen",
@@ -109,6 +110,7 @@ export const translations = {
     collection: {
       title: "Una colección de solo nueve.",
       body: "Nueve casas que evocan la vivienda tradicional del campo mexicano y la arquitectura del desierto. Baja densidad. Propiedad total. Diseñadas para vivir en armonía con la tierra.",
+      cta: "Recibe el Brochure",
       villas: ["Guamúchil", "Palo Blanco", "Choya", "Pitahaya", "Lomboy", "Ciruelo", "Damiana", "Palo Verde", "Mezquite"]
     },
     inside: {

@@ -29,7 +29,7 @@ export function Collection({ t, onOpenForm }: CollectionProps) {
               transition={{ repeat: Infinity, duration: 2, ease: "easeInOut" }}
               className="bg-brown-warm hover:bg-brown-deep text-cream px-8 py-3 rounded-full text-sm font-medium tracking-wide shadow-md hover:shadow-lg transition-all duration-300 inline-block"
             >
-              {t.nav.cta}
+              {t.collection.cta}
             </motion.button>
           </motion.div>
           
